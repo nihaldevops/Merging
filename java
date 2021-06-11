@@ -1,2 +1,3 @@
 sample java code
-updated by naveen developer
+this is praneeth code 
+
